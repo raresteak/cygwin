@@ -1,0 +1,12 @@
+#.bash_login
+#get around faster
+alias cdc='cd /cygdrive/c'
+alias cdf='cd /cygdrive/f'
+alias cdcu='cd /cygdrive/c/Users'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+alias .....='cd ../../../..'
+
+#other helpful aliases
+alias ll='ls -lhaG'
+alias grep='grep --color=auto'
